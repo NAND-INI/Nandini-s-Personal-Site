@@ -130,9 +130,10 @@ top:50px;
 }
 .giphy-img
 {
-  width: 30%;
+  width: 28%;
   float : left;
   margin-right: 30px;
+	 margin-bottom: 7%;
 }
 .contact-msg{
   width: 40%;
